@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad8b1d67997a974469909f9f1c810789, type: 3}
+  m_Name: Skeleton
+  m_EditorClassIdentifier: 
+  color: {r: 1, g: 1, b: 1, a: 1}
+  spriteScale: {x: 1, y: 1}
+  animation: {fileID: 9100000, guid: 15f09a6f92ae60c4f89c0d51906b7447, type: 2}
+  colliderRadius: 0.35
+  moveSpeed: 1
+  maxHP: 50
+  armorType: 0
+  armor: 1
+  scoreValue: 2
+  damage: 2
+  gold: 10
+  mana: 1

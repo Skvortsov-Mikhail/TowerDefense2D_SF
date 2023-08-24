@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c4ebf2157952334d86939ebfbe53b8d, type: 3}
+  m_Name: Tower_Trap
+  m_EditorClassIdentifier: 
+  m_GoldCost: 120
+  GUISprite: {fileID: 21300000, guid: 34d6703ba7cf6dd469bb0aad4781fccb, type: 3}
+  sprite: {fileID: 21300000, guid: 76e3b4d178bf30e4981440624967e07a, type: 3}
+  towerType: 2
+  turretProps: {fileID: 11400000, guid: 90bf4d25ae699cb47b08c6e4abbd93dd, type: 2}
+  towerRadius: 100
+  lead: 0
+  speedUpgradeAsset: {fileID: 0}
+  damageUpgradeAsset: {fileID: 0}

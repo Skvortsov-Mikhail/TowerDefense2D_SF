@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad8b1d67997a974469909f9f1c810789, type: 3}
+  m_Name: EyeMonster
+  m_EditorClassIdentifier: 
+  color: {r: 1, g: 1, b: 1, a: 1}
+  spriteScale: {x: 0.8, y: 0.8}
+  animation: {fileID: 9100000, guid: 6c403ee753599024ea107e6b7e1330fd, type: 2}
+  colliderRadius: 0.13
+  moveSpeed: 3
+  maxHP: 3
+  armorType: 0
+  armor: 1
+  scoreValue: 5
+  damage: 1
+  gold: 2
+  mana: 1

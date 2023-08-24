@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c4ebf2157952334d86939ebfbe53b8d, type: 3}
+  m_Name: Tower_Mage
+  m_EditorClassIdentifier: 
+  m_GoldCost: 250
+  GUISprite: {fileID: 21300000, guid: 1ff55c4a74fcf9b429b49b787ead3395, type: 3}
+  sprite: {fileID: 21300000, guid: 298636722737c4b41816506cd4bc994f, type: 3}
+  towerType: 1
+  turretProps: {fileID: 11400000, guid: 741d7774ad874c047a46fee226856290, type: 2}
+  towerRadius: 5
+  lead: 0.3
+  speedUpgradeAsset: {fileID: 11400000, guid: 9dcdcbe01f225f141a3796ca12dfaa82, type: 2}
+  damageUpgradeAsset: {fileID: 11400000, guid: e01b129bc26b96f4885df7271b77c80b, type: 2}
